@@ -1,0 +1,8 @@
+split,start,after_missing,after_conflicts,after_duplicates,after_leakage
+mrpc_test,408,408,-,-,-
+mrpc_train,3668,3668,3668.0,3668.0,3668.0
+qqp_test,40430,40430,-,-,-
+qqp_train,363846,363846,363830.0,363393.0,363307.0
+paws_test,8000,8000,-,-,-
+paws_train,49401,49401,49338.0,49259.0,49259.0
+paws_dev,8000,8000,8000.0,7983.0,7983.0
