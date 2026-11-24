@@ -1,0 +1,10 @@
+sentence1,sentence2,label,category,qwen_pred,correct
+The company announced record profits on Tuesday.,"On Tuesday, the firm reported its highest ever earnings.",1,paraphrase,1,True
+How can I lose weight quickly?,What is the fastest way to shed pounds?,1,paraphrase,1,True
+She gave the book to her brother.,Her brother was given the book by her.,1,paraphrase,1,True
+The company announced record profits on Tuesday.,The company announced record losses on Tuesday.,0,meaning flip,0,True
+The doctor approved the new treatment.,The doctor did not approve the new treatment.,0,negation,0,True
+Alice sent the money to Bob.,Bob sent the money to Alice.,0,entity swap,0,True
+The train leaves at 5 pm from Boston.,The train leaves at 5 pm from Chicago.,0,changed detail,0,True
+The store sold 200 units last week.,"The store sold 2,000 units last week.",0,changed number,0,True
+What is the capital of France?,What is the weather like in Paris today?,0,related but different,0,True
