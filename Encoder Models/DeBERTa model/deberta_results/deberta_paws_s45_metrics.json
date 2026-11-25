@@ -1,0 +1,33 @@
+{
+  "tag": "deberta_paws_s45",
+  "model": "microsoft/deberta-v3-base",
+  "dataset": "paws",
+  "seed": 45,
+  "precision": "fp16",
+  "gpu": "NVIDIA H200",
+  "n_train": 49259,
+  "n_test": 8000,
+  "test_accuracy": 0.949625,
+  "test_precision": 0.9374476403239319,
+  "test_recall": 0.9493778280542986,
+  "test_f1": 0.9433750175635801,
+  "majority_acc": 0.558,
+  "frac_pred_paraphrase": 0.447625,
+  "dev_curve": [
+    {
+      "epoch": 1.0,
+      "dev_f1": 0.9505981703026039,
+      "dev_loss": 0.13566936552524567
+    },
+    {
+      "epoch": 2.0,
+      "dev_f1": 0.9498533314708758,
+      "dev_loss": 0.1724182665348053
+    },
+    {
+      "epoch": 3.0,
+      "dev_f1": 0.9502886917335587,
+      "dev_loss": 0.1888512223958969
+    }
+  ]
+}

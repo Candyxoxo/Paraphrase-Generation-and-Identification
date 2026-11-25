@@ -1,0 +1,33 @@
+{
+  "tag": "deberta_qqp_s45",
+  "model": "microsoft/deberta-v3-base",
+  "dataset": "qqp",
+  "seed": 45,
+  "precision": "fp16",
+  "gpu": "NVIDIA H200",
+  "n_train": 36000,
+  "n_test": 5000,
+  "test_accuracy": 0.8846,
+  "test_precision": 0.8228952772073922,
+  "test_recall": 0.8735694822888284,
+  "test_f1": 0.8474755485064763,
+  "majority_acc": 0.633,
+  "frac_pred_paraphrase": 0.3896,
+  "dev_curve": [
+    {
+      "epoch": 1.0,
+      "dev_f1": 0.8360337005832793,
+      "dev_loss": 0.2887274920940399
+    },
+    {
+      "epoch": 2.0,
+      "dev_f1": 0.8505119453924914,
+      "dev_loss": 0.2693875730037689
+    },
+    {
+      "epoch": 3.0,
+      "dev_f1": 0.8466216216216216,
+      "dev_loss": 0.3454734981060028
+    }
+  ]
+}

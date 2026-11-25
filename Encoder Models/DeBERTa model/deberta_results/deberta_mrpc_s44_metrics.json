@@ -1,0 +1,33 @@
+{
+  "tag": "deberta_mrpc_s44",
+  "model": "microsoft/deberta-v3-base",
+  "dataset": "mrpc",
+  "seed": 44,
+  "precision": "fp16",
+  "gpu": "Tesla V100-SXM2-32GB",
+  "n_train": 3301,
+  "n_test": 408,
+  "test_accuracy": 0.8848039215686274,
+  "test_precision": 0.8972602739726028,
+  "test_recall": 0.9390681003584229,
+  "test_f1": 0.9176882661996497,
+  "majority_acc": 0.6838235294117647,
+  "frac_pred_paraphrase": 0.7156862745098039,
+  "dev_curve": [
+    {
+      "epoch": 1.0,
+      "dev_f1": 0.8859060402684564,
+      "dev_loss": 0.38845759630203247
+    },
+    {
+      "epoch": 2.0,
+      "dev_f1": 0.9041666666666667,
+      "dev_loss": 0.3109167516231537
+    },
+    {
+      "epoch": 3.0,
+      "dev_f1": 0.9004149377593361,
+      "dev_loss": 0.32241833209991455
+    }
+  ]
+}
