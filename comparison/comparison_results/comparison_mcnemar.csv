@@ -1,0 +1,5 @@
+setting,BERT acc,DeBERTa acc,only BERT right,only DeBERTa right,p-value,significant (p < 0.05)
+MRPC → MRPC,0.824,0.88,16,39,0.0027,True
+QQP → QQP,0.864,0.888,193,315,6.9e-08,True
+PAWS → PAWS,0.918,0.951,132,391,9.2e-31,True
+QQP → PAWS,0.48,0.516,757,1043,1.7e-11,True

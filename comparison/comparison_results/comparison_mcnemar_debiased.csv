@@ -1,0 +1,4 @@
+setting,standard acc,debiased acc,only standard right,only debiased right,p-value,significant (p < 0.05)
+QQP → QQP,0.888,0.876,138,79,7.5e-05,True
+QQP → PAWS,0.516,0.6,111,781,9.8e-125,True
+QQP → MRPC,0.738,0.735,11,10,1,False
