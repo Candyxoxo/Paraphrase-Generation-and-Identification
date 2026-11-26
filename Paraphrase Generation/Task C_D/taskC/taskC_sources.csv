@@ -1,0 +1,281 @@
+style,topic,source,max_sim_to_data,ok
+question,sport,What are the health benefits of regularly playing team sports?,0.464,True
+question,sport,What are the best strategies for training to prevent sports injuries?,0.383,True
+question,sport,How have sports teams adapted their strategies due to the pandemic?,0.141,True
+question,sport,What are some effective strategies for preventing sports injuries?,0.326,True
+question,sport,How has sportsmanship evolved with the increase in professional sports leagues worldwide?,0.183,True
+question,sport,What are some effective strategies for injury prevention in team sports?,0.288,True
+question,sport,What are some unique sports that are popular in different countries around the world?,0.296,True
+question,sport,What are some effective ways for soccer players to improve their agility on the field?,0.295,True
+question,sport,How has sportsmanship evolved in professional sports over the past decade?,0.192,True
+question,sport,What are the mental benefits of regular participation in team sports?,0.229,True
+question,science,What are some recent breakthroughs in quantum computing technology?,0.258,True
+question,science,How does quantum entanglement work and what are its practical applications?,0.395,True
+question,science,What are some groundbreaking discoveries in science that have changed our understanding of the universe?,0.2,True
+question,science,What are some groundbreaking scientific discoveries made in the last five years?,0.171,True
+question,science,What are some mind-bending theories in modern physics?,0.257,True
+question,science,What are some mind-bending implications of the many-worlds interpretation of quantum mechanics?,0.215,True
+question,science,What are some groundbreaking discoveries in science likely to be made in the next decade?,0.221,True
+question,science,What are some mind-blowing recent discoveries in the field of quantum physics?,0.405,True
+question,history,What were the key factors leading to the fall of the Roman Empire?,0.542,True
+question,history,What were the long-term impacts of the Black Death on European society?,0.348,True
+question,history,How did the Renaissance period influence modern science and art?,0.186,True
+question,history,How did the Treaty of Versailles affect post-World War I Europe?,0.471,True
+question,history,What were the long-term impacts of the Byzantine Empire's decline on Eastern Europe?,0.309,True
+question,history,What was the most significant impact of the Renaissance on modern society?,0.224,True
+question,history,What was the impact of the Black Death on European society?,0.325,True
+question,history,What were the major causes of World War I?,0.748,True
+question,history,What was the impact of the cambodia earthquake in 1972 on local history?,0.287,True
+question,food and cooking,What are some creative ways to use up leftover rice in meals?,0.543,True
+question,food and cooking,What are some healthy yet delicious recipes for vegetarian dinners?,0.243,True
+question,food and cooking,What are some healthy yet satisfying snack options for late-night cravings?,0.225,True
+question,food and cooking,What are some creative ways to use leftover mashed potatoes?,0.577,True
+question,technology,What are the potential risks of widespread adoption of artificial intelligence?,0.367,True
+question,technology,How has artificial intelligence improved over the past decade?,0.25,True
+question,technology,What are the potential long-term impacts of artificial intelligence on employment?,0.362,True
+question,technology,What are some emerging technologies that will shape the future workplace?,0.2,True
+question,technology,What are the potential risks of AI development that we should be wary of?,0.229,True
+question,technology,What are some upcoming technological advancements that will transform everyday life by 2025?,0.207,True
+question,technology,What are the potential long-term environmental impacts of rapid technological advancement?,0.25,True
+question,technology,How can I learn to code effectively for beginners?,0.454,True
+question,technology,What are the potential long-term impacts of wearable tech on our health?,0.187,True
+question,technology,How can emerging technologies like AI impact future job markets?,0.129,True
+question,health,What are some natural remedies for chronic fatigue?,0.459,True
+question,health,What are some natural remedies for headaches and migraines?,0.419,True
+question,health,What are some natural remedies for reducing anxiety and improving sleep?,0.368,True
+question,health,What are some natural remedies for insomnia that actually work?,0.393,True
+question,health,What are some natural ways to boost my immune system during flu season?,0.331,True
+question,travel,What are some budget-friendly ways to travel to Europe without breaking the bank?,0.227,True
+question,travel,What are some budget-friendly ways to travel internationally?,0.263,True
+question,travel,What are some must-try local dishes at your favorite travel destination?,0.246,True
+question,travel,What are some budget-friendly tips for traveling to Europe?,0.274,True
+question,travel,What are some budget-friendly travel tips for visiting multiple cities in Europe?,0.317,True
+question,travel,What are some budget-friendly travel destinations for 2023?,0.443,True
+question,travel,What are some budget-friendly travel hacks for exploring Europe?,0.337,True
+question,travel,What are some budget-friendly travel tips for first-time solo female travelers?,0.331,True
+question,travel,What are some budget-friendly travel destinations with amazing food scenes?,0.36,True
+question,music,What are some unique musical instruments from around the world?,0.256,True
+question,music,What are some creative ways to use music in marketing campaigns?,0.592,True
+question,music,How can music therapy help people with anxiety disorders?,0.313,True
+question,music,What are some innovative ways technology is changing the music industry today?,0.428,True
+question,music,What are some unconventional ways musicians are using technology to create new sounds?,0.199,True
+question,music,How has music therapy been used to treat anxiety and depression?,0.369,True
+question,music,How does listening to classical music affect brain development in children?,0.571,True
+question,music,What are some ways that music therapy can improve mental health?,0.29,True
+question,music,What are some unique ways to use music in daily life for better productivity?,0.288,True
+question,music,What are some innovative ways musicians are using artificial intelligence to create music?,0.423,True
+question,business,What are some effective strategies for managing remote teams?,0.331,True
+question,business,How can small businesses effectively use social media for marketing?,0.353,True
+question,business,What are the most effective strategies for remote team management?,0.304,True
+question,business,What are some strategies for boosting employee morale during remote work?,0.288,True
+question,business,What are the most effective strategies for digital marketing in small businesses?,0.354,True
+question,nature and animals,How do animals' behaviors adapt to seasonal changes in nature?,0.219,True
+question,nature and animals,What are some unique behaviors of octopuses that showcase their intelligence?,0.248,True
+question,nature and animals,What are some amazing examples of animals with unique survival mechanisms in nature?,0.373,True
+question,nature and animals,What are some fascinating examples of mimicry in nature involving animals?,0.253,True
+question,nature and animals,What are some unique ways animals communicate that we can learn from?,0.259,True
+question,nature and animals,What are some unique ways animals adapt to extreme desert environments?,0.213,True
+question,nature and animals,What are some examples of unique animal behaviors that have been recently discovered?,0.327,True
+question,nature and animals,What are some amazing examples of camouflage in nature?,0.363,True
+question,nature and animals,What are some unique behaviors of nocturnal animals that help them survive?,0.231,True
+question,nature and animals,How do animals adapt to living in urban environments?,0.249,True
+news,sport,Manchester United secured their place in the semifinals of the Champions League on March 15th with a convincing 3-1 victory over Paris Saint-Germain.,0.15,True
+news,sport,"On November 20th, soccer star Cristiano Ronaldo scored his 800th professional goal for Manchester United.",0.248,True
+news,sport,"On November 14, Manchester City secured their place in the quarter-finals by defeating Barcelona 3-1 in the Champions League.",0.148,True
+news,sport,"Cristiano Ronaldo scored an incredible hat-trick, leading Manchester United to a 3-1 victory over Arsenal on Saturday.",0.228,True
+news,sport,Cristiano Ronaldo scored an astonishing five goals in Portugal's recent 7-0 victory over Azerbaijan on September 6th.,0.259,True
+news,sport,Manchester United secured a 2-1 victory over Liverpool in a thrilling Premier League match on October 15th.,0.192,True
+news,sport,Manchester City secured their spot in the Champions League semifinals with a dominant 3-0 victory over Bayern Munich on April 14th.,0.133,True
+news,sport,"Manchester United secured a crucial victory over Chelsea on Monday, maintaining their lead in the Premier League standings.",0.178,True
+news,sport,"On April 10th, Barcelona's soccer team secured their spot in the Champions League semi-finals with a thrilling 3-2 victory over Manchester United.",0.142,True
+news,sport,"Manchester City secured their fourth consecutive Premier League title on May 22, defeating Liverpool 2-1.",0.131,True
+news,science,"On April 27th, scientists at MIT unveiled a groundbreaking new material that can harvest energy from thin air, potentially revolutionizing renewable energy sources.",0.189,True
+news,science,"On April 12, Dr. Elena Rodriguez unveiled a groundbreaking quantum computing model in Barcelona that could potentially process information 100 times faster than current technologies.",0.162,True
+news,science,"On July 4, NASA's Perseverance rover successfully collected its first Martian rock sample near Jezero Crater.",0.094,True
+news,science,"On April 12, NASA's Perseverance rover successfully collected its first sample from Mars, marking a significant milestone in space exploration.",0.164,True
+news,science,"On October 15, Dr. Emily Carter of Stanford University won the Breakthrough Prize in Life Sciences for her groundbreaking research in genetic engineering.",0.155,True
+news,science,"On October 10th, Dr. Emily Carter from MIT won the Nobel Prize in Chemistry for her pioneering work in theoretical studies of matter.",0.252,True
+news,science,"On April 12, Dr. Elena Rodriguez announced groundbreaking advancements in quantum computing at MIT.",0.18,True
+news,science,"On September 14, LIGO detected gravitational waves from merging black holes for the 50th time.",0.186,True
+news,science,"On October 15, Dr. Elena Rodriguez received the Breakthrough Science Award for her groundbreaking work on renewable energy sources in São Paulo, Brazil.",0.221,True
+news,science,"Scientists at MIT have developed a new material that can store solar energy with 90% efficiency, paving the way for sustainable energy solutions.",0.141,True
+news,history,"On July 4, 1776, the United States declared independence with the signing of the Declaration of Independence in Philadelphia.",0.386,True
+news,history,"On October 12, 1492, Christopher Columbus landed on the Bahamas, beginning the era of European exploration and colonization.",0.148,True
+news,history,"On July 4, 1776, the Continental Congress adopted the Declaration of Independence in Philadelphia, marking a pivotal moment in American history.",0.311,True
+news,history,"On October 3, 1492, Christopher Columbus first set foot on San Salvador, marking the beginning of the colonization of the Americas.",0.147,True
+news,history,"On October 14, 1962, President John F. Kennedy addressed the nation regarding the discovery of Soviet missiles in Cuba.",0.219,True
+news,history,"On October 12, 1492, Christopher Columbus landed on San Salvador, initiating the Age of Discovery.",0.162,True
+news,history,"On October 12, 1492, Christopher Columbus first landed on Guanahani, an event that would alter world history forever.",0.142,True
+news,history,"On July 4, 1776, the United States declared independence, a pivotal moment led by figures like Thomas Jefferson.",0.177,True
+news,history,"On October 14, 1962, President John F. Kennedy addressed the nation regarding the Cuban Missile Crisis, escalating Cold War tensions.",0.2,True
+news,history,"On October 3, 1492, Christopher Columbus first landed in the Bahamas, marking the beginning of European exploration in the Americas.",0.152,True
+news,food and cooking,Chef Lidia Bastianich will celebrate her 50th anniversary of cooking with family and friends at her restaurant in Saratoga Springs on June 10.,0.141,True
+news,food and cooking,Chef Mario Batali's restaurant in New York City won the best Italian cuisine award for the 7th consecutive year.,0.191,True
+news,food and cooking,Chef Lidia Bastianich celebrates 50 years of teaching Italian cuisine with a special gala dinner on April 14th in New York City.,0.128,True
+news,food and cooking,"Chef Martin Yan will host a new cooking show starting March 15th in Vancouver, featuring authentic recipes from his beloved culinary journey.",0.09,True
+news,food and cooking,Chef Jamie Oliver will host a free online cooking class for beginners on September 15th in London.,0.149,True
+news,food and cooking,"Chef Gordon Ramsay will open his first vegan restaurant in London on July 15th, offering innovative plant-based dishes.",0.216,True
+news,food and cooking,"Chef Julia Child will celebrate her 100th birthday on December 15, a significant milestone for American cuisine.",0.13,True
+news,food and cooking,Chef Marcus Samuelsson is set to release his new cookbook focusing on African cuisine on April 19th.,0.175,True
+news,food and cooking,"Chef Elena Ruiz will open her new culinary school, Culinary Creations, in San Francisco on March 15th.",0.142,True
+news,food and cooking,"Chef Jamie Oliver will open his first restaurant in Melbourne, Australia, focusing on healthy, sustainable dining options, on March 15.",0.13,True
+news,technology,"Amazon launched its latest voice assistant, Amazon Sage, on November 15, aiming to dominate the smart home market.",0.137,True
+news,technology,"On September 22, tech giant Apple released its latest iPhone model, the iPhone 13, boasting improved battery life and camera features.",0.201,True
+news,technology,"Amazon launched its latest AI-powered logistics system in Seattle, boosting warehouse efficiency by 25% since implementation last month.",0.121,True
+news,technology,"On March 15, tech giant Huawei unveiled its latest foldable phone in Paris, France.",0.151,True
+news,technology,"Samsung released its newest foldable phone, the Galaxy Z Fold3, on August 11, 2021.",0.157,True
+news,technology,"On November 15, Tech Innovators Inc. launched its latest AI-powered gadget in Silicon Valley, revolutionizing the way we interact with technology.",0.179,True
+news,technology,"On November 15, tech giant Huawei launched its latest smartphone model in New York City, attracting crowds with its advanced AI features.",0.126,True
+news,technology,"Microsoft launches its new AI-powered operating system, Windows 11, on October 5, 2021.",0.203,True
+news,technology,"On November 10th, Huawei launched its newest foldable phone, the Huawei Mate X2, in Shanghai.",0.155,True
+news,technology,"On October 20th, tech giant Tesla unveiled its new autonomous vehicle in Las Vegas, shocking the industry with groundbreaking AI advancements.",0.168,True
+news,health,"According to recent studies, Dr. Emma Lee from Melbourne, Australia has developed a new therapy that reduces Parkinson's disease symptoms by 45% in clinical trials.",0.165,True
+news,health,"Dr. Emily Thompson, a leading epidemiologist, has developed a novel vaccine that is 95% effective against the novel coronavirus.",0.109,True
+news,health,"According to new research, incorporating at least 30 minutes of daily walking can significantly reduce the risk of type 2 diabetes by 40%.",0.255,True
+news,health,"Dr. Emily Thompson, a public health expert, has been awarded the prestigious National Health Medal for her groundbreaking work in eradicating measles in North America by 2025.",0.131,True
+news,health,"According to new research published on Monday, regular exercise can reduce the risk of heart disease by at least 35% in adults over 40.",0.258,True
+news,health,Dr. Jane Thompson has been awarded the prestigious Health Innovator of the Year Award for her groundbreaking work in infectious disease prevention.,0.099,True
+news,health,"Dr. Emily Carter, a prominent health expert, has warned that unvaccinated individuals are 5 times more likely to contract COVID-19.",0.146,True
+news,health,"According to new research, Dr. Jane Thompson has developed a groundbreaking vaccine that could reduce flu-related hospitalizations by 75% in elderly patients.",0.076,True
+news,health,"According to recent studies, Dr. Emily Carter from Harvard University has developed a novel vaccine that shows 95% efficacy against the influenza virus.",0.139,True
+news,health,"According to a recent study,ournaments with excessive screen time can lead to a 20% increase in sleep disorders among teenagers.",0.128,True
+news,travel,"Thailand reopened its borders on November 1st, welcoming 2,000 international tourists to Phuket under a special visa scheme.",0.128,True
+news,travel,Delta Air Lines announced it will resume flights to Barcelona starting June 15th.,0.239,True
+news,travel,"Delta Airlines resumes non-stop flights from Chicago to Tokyo, enhancing travel options for passengers on April 15th.",0.152,True
+news,travel,"According to travel experts, Bangkok's Suvarnabhumi Airport handled over 50 million passengers in 2019 before the pandemic struck.",0.136,True
+news,travel,Thailand welcomed its first international tourists in over a year on July 1st at Suvarnabhumi Airport.,0.148,True
+news,travel,"Thailand welcomes back international tourists, reopening its borders to travelers from over 60 countries starting October 1st.",0.129,True
+news,travel,"Traveler Alice Johnson embarks on a 12-day journey across Japan, exploring ancient temples and modern cities.",0.139,True
+news,travel,"Delta Airlines resumes non-stop flights from New York to Tokyo, set to depart on March 15th.",0.163,True
+news,travel,Thailand's popular Phuket island welcomed back international tourists on July 1st after a year-long hiatus.,0.135,True
+news,travel,"Thailand welcomes its first international tourists in over a year on November 1, marking the beginning of a long-awaited recovery for its tourism industry.",0.139,True
+news,music,"On April 10th, legendary musician Elton John will perform at New York's Madison Square Garden for his final North American tour.",0.13,True
+news,music,"On April 10, local musician Jordan Henderson released his debut album ""Echoes of Tomorrow"" in Nashville, showcasing over 20 original songs.",0.117,True
+news,music,"On April 15, acclaimed pianist Lang Lang performed at New York's Carnegie Hall, captivating audiences with his virtuosic skills.",0.093,True
+news,music,"On April 10, renowned pianist Lang Lang will perform Beethoven's Piano Concerto No. 5 at New York's Lincoln Center.",0.097,True
+news,music,"On Valentine's Day, Taylor Swift performed a surprise concert for frontline workers in New York City, treating over 1,000 heroes to an intimate acoustic set.",0.165,True
+news,music,"On April 10th, renowned pianist Lang Lang performed a sold-out concert at New York's Lincoln Center.",0.119,True
+news,music,"On March 15, acclaimed pianist Lang Lang will perform Beethoven's Piano Concerto No. 5 in Liverpool's Philharmonic Hall.",0.115,True
+news,music,"On September 15, pop sensation Taylor Swift released her highly-anticipated ninth studio album, ""Midnights,"" at midnight UTC.",0.184,True
+news,music,"On April 10th, legendary musician Elton John performed at New York's Madison Square Garden, thrilling over 18,000 fans with hits spanning his illustrious career.",0.103,True
+news,music,"On March 15, acclaimed pianist Lang Lang performed a sold-out concert at New York's Lincoln Center, showcasing classical pieces with modern twists.",0.136,True
+news,business,"Tesla is opening its first European Gigafactory in Berlin, set to commence operations in late 2023.",0.134,True
+news,business,Tech giant Apple announced a $2 trillion revenue target by 2025 at its annual shareholder meeting on June 7th.,0.124,True
+news,business,"E-commerce giant Alibaba reported a 24% revenue growth in Q4, reaching $20 billion, driven by robust sales in China.",0.115,True
+news,business,Tech giant Alibaba reported a 23% revenue growth in the first quarter of 2023.,0.194,True
+news,business,E-commerce giant Alibaba reported a record-breaking $58.2 billion in total merchandise sales during the 2023 Singles' Day shopping festival.,0.116,True
+news,business,"Tesla is set to open its newest factory in Austin, Texas, creating over 10,000 jobs by 2023.",0.142,True
+news,business,"Tech giant Apple announced plans to build a new $100 million campus in Austin, Texas, creating over 5,000 jobs by 2026.",0.153,True
+news,business,Tech giant Intel announced plans to invest $20 billion in a new chip manufacturing complex in Arizona by 2026.,0.13,True
+news,business,Tech giant Alibaba reported a 23% revenue growth in the latest fiscal quarter ending June 30.,0.157,True
+news,business,"Tesla announced a record quarterly profit of $1.6 billion in Q4, 2020, boosting investor confidence globally.",0.115,True
+news,nature and animals,"In a remarkable turn of events, a rare axolotl was discovered swimming in its last natural lake, Xochimilco, Mexico, on April 15th.",0.101,True
+news,nature and animals,"In a remarkable conservation success, the Amur leopard population in Russia has grown to 110 individuals, up from just 30 in the 1990s.",0.136,True
+news,nature and animals,"On April 15th, wildlife rangers rescued a rare Jackson's pygmy chimpanzee from poachers in the Congo Basin.",0.104,True
+news,nature and animals,"On October 15, bird watchers spotted an endangered whooping crane near the Rocky Mountain National Park.",0.11,True
+news,nature and animals,"On April 15, wildlife rangers captured rare footage of a snow leopard in the rugged mountains of Ladakh.",0.125,True
+news,nature and animals,"On July 4th, a rare sighting of a baby orca was captured off the coast of British Columbia, marking the first birth in the area this year.",0.127,True
+news,nature and animals,"On April 15th, wildlife rescuers saved a record-breaking 72 orphaned sea otters along California's Big Sur coastline.",0.07,True
+news,nature and animals,"On June 1st, wildlife rescuers successfully rehabilitated a rare Siberian tiger back into the Russian wild after a year-long recovery.",0.119,True
+news,nature and animals,"On March 15th, a rare sighting of a sea lion practicing itsbreaching skills was captured on camera off the coast of San Diego.",0.127,True
+news,nature and animals,"On April 15th, a rare snowy owl was spotted in Miami, Florida, expanding scientists' understanding of the bird's migratory patterns.",0.127,True
+encyclopedia,sport,"The first modern Olympic Games featuring international participation were held in Athens, Greece in 1896.",0.173,True
+encyclopedia,sport,"The first modern Olympic Games featuring both men's and women's events was held in St. Louis, Missouri, in 1904.",0.181,True
+encyclopedia,sport,The first modern Olympic Games in 1896 featured 245 athletes competing in 43 events across nine sports.,0.113,True
+encyclopedia,sport,"The ancient Olympic Games began in Olympia, Greece in 776 BC, featuring only one event: a sprint race of 192 meters.",0.143,True
+encyclopedia,sport,"The Sydney Olympics in 2000 featured water polo as a highlight, with Australia's team winning a silver medal.",0.151,True
+encyclopedia,sport,"The first Olympic basketball game was played at the 1904 Summer Olympics in St. Louis, Missouri.",0.221,True
+encyclopedia,sport,"The Indianapolis Colts, founded in 1963, are a professional American football team in the NFL.",0.202,True
+encyclopedia,sport,"The marathon swimming event in the World Championships is held every two years, with the first championship taking place in 1976 in Lausanne, Switzerland.",0.117,True
+encyclopedia,sport,"The first FIFA World Cup was held in Uruguay in 1930, involving 13 teams from around the world.",0.246,True
+encyclopedia,sport,"The Sydney Olympic Park hosted the Athletics events during the 2000 Summer Olympics in Sydney, Australia.",0.24,True
+encyclopedia,science,The scientist Marie Curie discovered radium and polonium in 1898.,0.122,True
+encyclopedia,science,The first woman to receive a doctorate from a German university was Emmy Noether in 1908.,0.161,True
+encyclopedia,science,"Theoretical physicist Stephen Hawking proposed that black holes emit radiation, now known as Hawking radiation, in 1974.",0.221,True
+encyclopedia,science,The Nobel Prize in Chemistry has been awarded to 175 different individuals since its inception in 1901.,0.285,True
+encyclopedia,science,"The first satellite to image Earth's full disk was Luna 3, launched by the Soviet Union on October 4, 1959.",0.156,True
+encyclopedia,science,"Theoretical physicist Stephen Hawking published ""A Brief History of Time"" in 1988, making complex cosmological concepts accessible to general readers.",0.221,True
+encyclopedia,science,The first computer mouse was invented by Douglas Engelbart in 1964 at Stanford Research Institute.,0.221,True
+encyclopedia,science,"Theoretical physicist Stephen Hawking proposed the existence of ""mini-black holes"" in 1974.",0.255,True
+encyclopedia,science,"The first satellite to photograph Earth from orbit was named Vanguard 1, launched on March 17, 1958.",0.13,True
+encyclopedia,science,The Hubble Space Telescope has provided over 15 terabytes of data since its launch in 1990.,0.19,True
+encyclopedia,history,"The Treaty of Tordesillas, signed in 1494, divided newly discovered lands outside Europe between the Portuguese Empire and the Spanish Empire.",0.236,True
+encyclopedia,history,"The Battle of Hastings in 1066 marked the Norman conquest of England, significantly altering its political and cultural landscape.",0.215,True
+encyclopedia,history,"The first known computer virus, called Elk Cloner, was created in 1982 by a 15-year-old programmer named Richard Skrenta.",0.163,True
+encyclopedia,history,"The Magna Carta, signed in 1215 at Runnymede, established the principle that everyone, including the king, was subject to the law.",0.266,True
+encyclopedia,history,The first successful spacecraft landing on Mars was achieved by the Soviet Union's Mars 3 lander in December 1971.,0.177,True
+encyclopedia,history,"The Mongol Empire, under Genghis Khan, reached its greatest extent by 1279, spanning much of Eurasia.",0.182,True
+encyclopedia,history,"The Battle of Waterloo, fought on June 18, 1815, marked the end of Napoleon Bonaparte's rule and the Napoleonic Wars.",0.303,True
+encyclopedia,history,"The Battle of Hastings in 1066 marked William the Conqueror's decisive victory over King Harold Godwinson, establishing Norman rule in England.",0.125,True
+encyclopedia,history,"The first known settler of Iceland, Ingólfur Arnarson, arrived around the year 874.",0.117,True
+encyclopedia,history,The Treaty of Trianon in 1920 reduced Hungary's territory by two-thirds after World War I.,0.269,True
+encyclopedia,food and cooking,"The Michelin Guide awards up to three stars to restaurants, with three-star establishments considered the pinnacle of culinary achievement worldwide.",0.089,True
+encyclopedia,food and cooking,The Michelin Guide began awarding stars to exceptional restaurants in Paris in 1926.,0.17,True
+encyclopedia,food and cooking,"Chef Julia Childs published her influential cookbook ""The French Chef"" in 1961.",0.116,True
+encyclopedia,food and cooking,"The ancient Roman cookbook De Re Cookina, compiled around 1st century AD, includes recipes for over 200 dishes.",0.144,True
+encyclopedia,food and cooking,The Michelin Guide awards up to three stars to outstanding restaurants in over 25 countries worldwide.,0.152,True
+encyclopedia,food and cooking,"The Michelin Guide awards up to three stars to restaurants that offer exceptional cuisine, with only 46 establishments holding three stars globally as of 2023.",0.115,True
+encyclopedia,food and cooking,"The ancient Roman cookbook De Re Cookaria, attributed to Apicius, dates back to the 5th century AD and includes over 400 recipes.",0.117,True
+encyclopedia,food and cooking,The ancient Roman cookbook Apicius contains over 500 recipes from the 5th century AD.,0.145,True
+encyclopedia,food and cooking,"Chef Emeril Lagasse popularized the phrase ""Bam!"" to emphasize flavorful cooking techniques in 1995.",0.108,True
+encyclopedia,food and cooking,"The Michelin Guide awards stars to restaurants worldwide, including the famous Le Bernardin in New York City since 2001.",0.141,True
+encyclopedia,technology,"The first commercially available microprocessor, the Intel 4004, was introduced in October 1971.",0.139,True
+encyclopedia,technology,The first commercial Internet service provider was launched in the United States in 1992 by PSInet.,0.305,True
+encyclopedia,technology,"The first mobile phone call was made on April 3, 1973 by Martin Cooper from a Motorola prototype.",0.218,True
+encyclopedia,technology,"The first electronic computer, ENIAC, was completed in 1945 in Philadelphia, USA.",0.17,True
+encyclopedia,technology,"The first smartphone, the Motorola DynaTAC 8000X, was introduced in 1983.",0.158,True
+encyclopedia,technology,The first commercially successful transistor was introduced by Bell Laboratories in 1947.,0.196,True
+encyclopedia,technology,"The first commercially successful semiconductor transistor was invented by John Bardeen, Walter Brattain, and William Shockley in 1947 at Bell Labs.",0.211,True
+encyclopedia,technology,"The first smartphone, the IBM Simon, was released in 1994, combining a telephone with a PDA in one device.",0.137,True
+encyclopedia,technology,"The first smartphone, the Motorola DynaTAC 8000X, was released in 1983, marking a significant technological advancement.",0.126,True
+encyclopedia,technology,"The first commercial electronic computer, UNIVAC I, was delivered to the U.S. Census Bureau in 1951.",0.181,True
+encyclopedia,health,"The Centers for Disease Control and Prevention (CDC) identifies vaccination as one of the ten great public health achievements of the 20th century, preventing approximately 21 million deaths in the U.S. since 1924.",0.281,True
+encyclopedia,health,The World Health Organization declared access to clean water as a fundamental human right in 2005.,0.243,True
+encyclopedia,health,The Centers for Disease Control and Prevention (CDC) identifies vaccination as one of the most effective ways to prevent infectious diseases.,0.362,True
+encyclopedia,health,The World Health Organization declared mental health conditions affect over 450 million people globally.,0.218,True
+encyclopedia,health,The World Health Organization declares that regular physical activity reduces the risk of developing type 2 diabetes by at least 40%.,0.242,True
+encyclopedia,health,The World Health Organization declared vaccine hesitancy as one of the top ten global health threats in 2019.,0.193,True
+encyclopedia,health,The World Health Organization estimates that depression affects approximately 264 million people worldwide.,0.165,True
+encyclopedia,health,The World Health Organization defines good mental health as a state of well-being in which an individual realizes their own abilities.,0.227,True
+encyclopedia,health,The World Health Organization declared vaccination coverage among children under 5 years old exceeded 90% in 2019 globally.,0.144,True
+encyclopedia,health,Regular physical activity can reduce the risk of cardiovascular disease by up to 50%.,0.229,True
+encyclopedia,travel,"The ancient Silk Road, established around 130 BCE, facilitated trade and cultural exchange between China and the Mediterranean for over a thousand years.",0.162,True
+encyclopedia,travel,"The first commercial transatlantic flight by Charles Lindbergh occurred on May 21, 1927, taking 33 hours and 30 minutes from New York to Paris.",0.129,True
+encyclopedia,travel,"The Great Wall of China, a popular tourist destination, stretches for over 13,000 miles.",0.292,True
+encyclopedia,travel,"The ancient Silk Road, spanning over 4,000 miles, facilitated extensive cultural and commercial exchanges between China and the Mediterranean from the 2nd century BCE.",0.156,True
+encyclopedia,travel,"The Grand Canyon, Arizona, USA, offers over 900 miles of developed hiking trails for travelers to explore its breathtaking vistas.",0.158,True
+encyclopedia,travel,"The Silk Road, active from approximately 200 BC to 1453 AD, facilitated trade, cultural exchange, and travel between China and the Mediterranean.",0.156,True
+encyclopedia,travel,"The ancient Silk Road, established around 130 BCE, facilitated extensive cultural and commercial travel between China and the Mediterranean.",0.173,True
+encyclopedia,travel,"The ancient Silk Road trade route connected China with the Mediterranean, fostering trade between 107 BC and the 14th century.",0.175,True
+encyclopedia,travel,"The Great Wall of China, stretching over 13,000 miles, is a popular travel destination for historians and adventure seekers alike.",0.146,True
+encyclopedia,travel,The first commercial jet service began between London and Paris in 1952.,0.222,True
+encyclopedia,music,"The Beatles released their iconic album ""Sgt. Pepper's Lonely Hearts Club Band"" in 1967, significantly influencing rock music.",0.145,True
+encyclopedia,music,"The Beatles released their debut album, ""Please Please Me,"" in 1963, significantly impacting the musical landscape of the 20th century.",0.199,True
+encyclopedia,music,"The Beatles released their debut album, ""Please Please Me,"" in 1963, shaping modern pop music.",0.166,True
+encyclopedia,music,"The Beatles released their self-titled album, known as the ""White Album,"" in 1968.",0.21,True
+encyclopedia,music,"The Beatles released their first UK single, ""Love Me Do,"" in October 1962.",0.202,True
+encyclopedia,music,"The Beatles released their debut album, ""Please Please Me,"" in 1963, marking the beginning of the British Invasion on the American music scene.",0.149,True
+encyclopedia,music,"Johann Sebastian Bach composed the Brandenburg Concertos, a set of six instrumental works, in the early 1720s.",0.137,True
+encyclopedia,music,"The Beatles released their debut single ""Love Me Do"" in October 1962, marking the beginning of their musical dominance.",0.149,True
+encyclopedia,music,"The composer Ludwig van Beethoven composed nine symphonies, including the renowned Symphony No. 9 with its choral finale.",0.168,True
+encyclopedia,music,The composer Ludwig van Beethoven premiered his Symphony No. 9 in D minor in 1824.,0.245,True
+encyclopedia,business,"The first Bitcoin ATM was installed in Vancouver, Canada on February 16, 2014.",0.202,True
+encyclopedia,business,"The first modern corporation, the East India Company, was chartered in England on December 31, 1600.",0.188,True
+encyclopedia,business,The first modern corporation was chartered in Virginia in 1606 to establish Jamestown.,0.12,True
+encyclopedia,business,The first stock exchange in the United States opened in Philadelphia in 1790.,0.244,True
+encyclopedia,business,"The first stock exchange in the United States, the New York Stock Exchange, opened on May 17, 1792 in New York City.",0.293,True
+encyclopedia,business,"The first commercial internet service provider, PSInet, was established in 1989 in Maryland, USA.",0.301,True
+encyclopedia,business,The Fortune 500 list ranks the top 500 largest corporations in the United States by total revenue.,0.175,True
+encyclopedia,business,"The first modern stock exchange, the Amsterdam Stock Exchange, opened in 1602 with the Amstel River as its backdrop.",0.24,True
+encyclopedia,business,"The first modern shopping mall in the United States, Southdale Center, opened in Edina, Minnesota in 1956.",0.181,True
+encyclopedia,business,"The first modern corporation, the East India Company, was chartered in 1600 to facilitate trade with the East Indies.",0.173,True
+encyclopedia,nature and animals,"The Amazon rainforest harbors over 400 billion individual trees comprising more than 16,000 species.",0.206,True
+encyclopedia,nature and animals,"The cheetah, the fastest land animal, can reach speeds up to 60 miles per hour during short sprints.",0.181,True
+encyclopedia,nature and animals,"The Galápagos Islands are renowned for their unique wildlife, including the giant tortoise with some species living up to 100 years.",0.136,True
+encyclopedia,nature and animals,"The giant panda, Ailuropoda melanoleuca, consumes approximately 38 kilograms of bamboo annually.",0.089,True
+encyclopedia,nature and animals,"The Giant Panda, Ailuropoda melanoleuca, consumes up to 38 kilograms of bamboo daily for sustenance.",0.11,True
+encyclopedia,nature and animals,"The giant panda, Ailuropoda melanoleuca, has a diet almost exclusively consisting of bamboo, which comprises over 99% of its food intake.",0.122,True
+encyclopedia,nature and animals,"The giraffe, with its distinctive long neck, is the tallest living terrestrial animal, reaching up to 5.9 meters in height.",0.176,True
+encyclopedia,nature and animals,"The giant panda, Ailuropoda melanoleuca, has a diet consisting of 99% bamboo species found in the mountainous regions of China.",0.109,True
+encyclopedia,nature and animals,"The African elephant,Loxodonta africana, can reach heights of up to 3.5 meters at the shoulder.",0.14,True
+encyclopedia,nature and animals,"The monarch butterfly migrates up to 3,000 miles from Canada to Mexico each year.",0.177,True
