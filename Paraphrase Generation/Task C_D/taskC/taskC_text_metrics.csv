@@ -1,5 +1,0 @@
-style,overlap,bleu,bertscore_f1
-encyclopedia,0.605,31.53,0.958
-news,0.567,34.051,0.965
-question,0.35,16.355,0.944
-all,0.519,28.137,0.956
