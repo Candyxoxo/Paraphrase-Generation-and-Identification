@@ -1,0 +1,20 @@
+{
+ "task": "D: near-miss hard negatives",
+ "model": "Qwen/Qwen2.5-7B-Instruct",
+ "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+ "dtype": "bfloat16",
+ "gen_config": {
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "top_k": 40,
+  "max_new_tokens": 128
+ },
+ "seed": 42,
+ "batch_size": 128,
+ "prompts": {
+  "number": "Change one number, date or amount in the sentence so that its meaning changes. Keep every other word the same and keep the same style. A statement must stay a statement, and a question must stay a question. The result must be grammatical and natural. If this change is not possible, output only NONE. Write in English and output only the new sentence.",
+  "swap": "Swap the positions of two names, places, objects or roles that are already in the sentence, so that its meaning changes. Do not replace them with new words. Keep every other word the same and keep the same style. A statement must stay a statement, and a question must stay a question. The result must be grammatical and natural. If this change is not possible, output only NONE. Write in English and output only the new sentence.",
+  "negation": "Add or remove one negation, such as 'not' or 'never', so that the sentence means the opposite. Keep every other word the same and keep the same style. A statement must stay a statement, and a question must stay a question. The result must be grammatical and natural. If this change is not possible, output only NONE. Write in English and output only the new sentence."
+ },
+ "date": "2026-11-26T02:37:55"
+}

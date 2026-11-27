@@ -1,0 +1,4 @@
+edit_type,pairs,DeBERTa (in-domain),DeBERTa (QQP),DeBERTa debiased (QQP),Qwen (zero-shot)
+negation,508,0.370 ± 0.075,0.268 ± 0.093,0.141 ± 0.063,0.008
+number,524,0.772 ± 0.043,0.323 ± 0.060,0.169 ± 0.034,0.006
+swap,228,0.451 ± 0.031,0.752 ± 0.127,0.455 ± 0.026,0.132

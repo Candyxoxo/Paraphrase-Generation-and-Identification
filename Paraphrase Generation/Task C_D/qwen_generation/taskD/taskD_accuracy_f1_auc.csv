@@ -1,0 +1,5 @@
+judge,accuracy,F1,AUC
+DeBERTa (in-domain),0.684 ± 0.022,0.745 ± 0.014,0.746
+DeBERTa (QQP),0.767 ± 0.025,0.796 ± 0.013,0.893
+DeBERTa debiased (QQP),0.840 ± 0.019,0.848 ± 0.017,0.926
+Qwen (zero-shot),0.802,0.762,0.923

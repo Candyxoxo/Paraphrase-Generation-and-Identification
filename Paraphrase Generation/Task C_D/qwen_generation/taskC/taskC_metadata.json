@@ -1,0 +1,33 @@
+{
+ "task": "C: new sentences and their paraphrases",
+ "model": "Qwen/Qwen2.5-7B-Instruct",
+ "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+ "dtype": "bfloat16",
+ "gen_config": {
+  "temperature": 0.7,
+  "top_p": 0.9,
+  "top_k": 40,
+  "max_new_tokens": 128
+ },
+ "seed": 42,
+ "styles": {
+  "question": "Write one new question that someone might ask on a Q&A website like Quora, about the given topic.",
+  "news": "Write one new sentence in the style of a news report about the given topic. Include a specific name, place, date or number.",
+  "encyclopedia": "Write one new factual sentence in the style of an encyclopedia about the given topic. Include a specific name, place, date or number."
+ },
+ "source_prompt_suffix": " Make it original and 8 to 30 words long. Write in English and output only the sentence.",
+ "topics": [
+  "sport",
+  "science",
+  "history",
+  "food and cooking",
+  "technology",
+  "health",
+  "travel",
+  "music",
+  "business",
+  "nature and animals"
+ ],
+ "paraphrase_prompt": "Rewrite the sentence with different words and structure, but keep the exact same meaning. Keep all names, numbers, places, dates and relations unchanged, and do not add or remove information. A statement must stay a statement, and a question must stay a question; do not answer it. Write in English and output only the paraphrase.",
+ "date": "2026-11-26T02:45:13"
+}

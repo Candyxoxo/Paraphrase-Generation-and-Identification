@@ -1,0 +1,5 @@
+judge,accepts real paraphrases,fooled by near-misses
+DeBERTa (in-domain),0.920 ± 0.007,0.552 ± 0.042
+DeBERTa (QQP),0.911 ± 0.021,0.378 ± 0.069
+DeBERTa debiased (QQP),0.890 ± 0.015,0.210 ± 0.029
+Qwen (zero-shot),0.634,0.029

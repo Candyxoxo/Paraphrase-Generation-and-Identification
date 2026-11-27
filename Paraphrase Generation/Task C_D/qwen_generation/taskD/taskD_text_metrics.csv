@@ -1,0 +1,10 @@
+dataset,edit_type,overlap,bleu,bertscore_f1
+mrpc,negation,0.897,83.578,0.984
+mrpc,number,0.892,86.615,0.997
+mrpc,swap,1.0,76.385,0.984
+paws,negation,0.91,83.496,0.982
+paws,number,0.88,85.938,0.996
+paws,swap,1.0,72.018,0.985
+qqp,negation,0.872,67.35,0.978
+qqp,number,0.835,75.698,0.993
+qqp,swap,1.0,58.97,0.98
